@@ -1,0 +1,21 @@
+# Default configuration file for voice permissions version 0.1
+# Do not change these values.
+Groups:
+  Owner:
+    Group_ID: 6
+  Developer:
+    Group_ID: 5
+  Admin:
+    Group_ID: 4
+  JrDev:
+    Group_ID: 3
+  Mod:
+    Group_ID: 2
+  Helper:
+    Group_ID: 1
+  Member:
+    Group_ID: 0
+
+# Users only sections
+players:
+

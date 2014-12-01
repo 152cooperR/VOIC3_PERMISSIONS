@@ -1,0 +1,6 @@
+name: Voic3_Permissions
+main: net.voic3.permissions.Main
+version: 0.1
+commands:
+  groups:
+    description: Main command for permissions.
