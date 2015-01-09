@@ -528,7 +528,7 @@ public class Main extends JavaPlugin implements Listener{
      * Chat Management
      */
     @EventHandler
-        public void onChat(AsyncPlayerChatEvent e) {
+        public void onChat(AsyncPlayerChatEvent e ) {
 
         String message = e.getMessage();
         Player p = e.getPlayer();
