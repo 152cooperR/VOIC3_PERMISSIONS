@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Nathan Rhodes A.K.A. 152cooperR & NathanSDK
+ * Created by nrtheprogrammer@gmail.com A.K.A. 152cooperR & NathanSDK
  */
 
 public class Main extends JavaPlugin implements Listener{
