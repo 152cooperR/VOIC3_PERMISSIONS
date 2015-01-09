@@ -11,13 +11,6 @@ import java.util.ArrayList;
  */
 public class Groups{
     public static ArrayList<String> allGroups = new ArrayList<String>();
-    public static ArrayList<String> owner = new ArrayList<String>();
-    public static ArrayList<String> developer = new ArrayList<String>();
-    public static ArrayList<String> admin = new ArrayList<String>();
-    public static ArrayList<String> jrdev = new ArrayList<String>();
-    public static ArrayList<String> mod = new ArrayList<String>();
-    public static ArrayList<String> member = new ArrayList();
-
     public static ArrayList<String> getAllGroups() {
         return allGroups;
     }

@@ -2,19 +2,37 @@
 # Do not change these values.
 Groups:
   Owner:
-    Group_ID: 6
+    Group_ID: 7
+    Prefix:
+    Permissions:
   Developer:
-    Group_ID: 5
+    Group_ID: 6
+    Prefix:
+    Permissions:
   Admin:
-    Group_ID: 4
+    Group_ID: 5
+    Prefix:
+    Permissions:
   JrDev:
-    Group_ID: 3
+    Group_ID: 4
+    Prefix:
+    Permissions:
   Mod:
+    Group_ID: 3
+    Prefix:
+    Permissions:
+  Helper:
     Group_ID: 2
+    Prefix:
+    Permissions:
   Helper:
     Group_ID: 1
+    Prefix:
+    Permissions:
   Member:
     Group_ID: 0
+    Prefix:
+    Permissions:
 
 # Users only sections
 players:

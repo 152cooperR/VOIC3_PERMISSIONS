@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Voice_Permission">
+    <output-path>B:/Testing (Proxy Server)/testing-Skywars/plugins</output-path>
+    <root id="archive" name="Voice_Permission.jar">
+      <element id="module-output" name="Voic3_Permissions" />
+    </root>
+  </artifact>
+</component>

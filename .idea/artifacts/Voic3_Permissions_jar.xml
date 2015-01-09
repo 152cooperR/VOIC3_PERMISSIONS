@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" build-on-make="true" name="Voic3_Permissions:jar">
-    <output-path>$USER_HOME$/Desktop/SERVERS/testing/plugins</output-path>
+    <output-path>B:/Testing (Proxy Server)/testing-General/plugins</output-path>
     <root id="archive" name="Voic3_Permissions.jar">
       <element id="module-output" name="Voic3_Permissions" />
     </root>

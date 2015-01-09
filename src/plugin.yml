@@ -4,3 +4,25 @@ version: 0.1
 commands:
   groups:
     description: Main command for permissions.
+  promote:
+    description: Promotes the target user.
+  demote:
+    description: Demotes the target user.
+  ban:
+    description: TEST
+  prefix:
+    description: Changes the group`s prefix.
+  s:
+    description: Staff chat command.
+  nick:
+    description: Changes your nickname.
+  userinfo:
+    description: Displays a user`s information.
+  afk:
+    description: Puts you AFK!
+  killall:
+    description: Kills all mobs.
+  shutup:
+    description: Mutes the target player.
+  jurrado:
+    description: Summons him...
